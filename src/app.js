@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-console.log("Merhaba kodlama")
-//
-=======
 console.log("Merhaba Kodlama.io")
 
 //JS type safe değildir
@@ -38,4 +34,3 @@ console.log("</ul>")
 </ul> */}
 
 console.log(konutKredileri)
->>>>>>> 913ee0044458ba0401b6785ff179f907b3fb0c1e
